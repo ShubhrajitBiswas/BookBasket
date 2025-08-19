@@ -1,0 +1,84 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipiscing",
+        "price":0.00,
+        "category":"Free",
+        "image":"/images/i3.jpg"
+
+    },
+    {
+        "id": 2,
+        "name": "Adventure Tales",
+        "title": "Consectetur adipiscing elit lorem ipsum dolor sit",
+        "price": 9.99,
+        "category": "Paid",
+        "image": "/images/i3.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Mystery Novel",
+        "title": "Sed do eiusmod tempor incididunt ut labore et dolo",
+        "price": 12.50,
+        "category": "Paid",
+        "image": "/images/i3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Fantasy World",
+        "title": "Ut enim ad minim veniam quis nostrud exercitation",
+        "price": 0.00,
+        "category": "Free",
+        "image": "/images/i3.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Sci-Fi Saga",
+        "title": "Duis aute irure dolor in reprehenderit in voluptate",
+        "price": 15.00,
+        "category": "Paid",
+        "image": "/images/i3.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Historical Fiction",
+        "title": "Excepteur sint occaecat cupidatat non proident",
+        "price": 8.75,
+        "category": "Paid",
+        "image": "/images/i3.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Poetry Collection",
+        "title": "Sunt in culpa qui officia deserunt mollit anim",
+        "price": 0.00,
+        "category": "Free",
+        "image": "/images/i3.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Thriller Series",
+        "title": "Nemo enim ipsam voluptatem quia voluptas sit",
+        "price": 11.25,
+        "category": "Paid",
+        "image": "/images/i3.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Childrens Stories",
+        "title": "Neque porro quisquam est qui dolorem ipsum",
+        "price": 5.00,
+        "category": "Paid",
+        "image": "/images/i3.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Self-Help Guide",
+        "title": "Quia dolor sit amet consectetur adipiscing elit",
+        "price": 0.00,
+        "category": "Free",
+        "image": "/images/i3.jpg"
+    }
+
+]
